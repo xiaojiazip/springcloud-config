@@ -1,2 +1,2 @@
-server:
-  port: 8080
+config:
+  info: master bransh, springcloud-config/application-dev.yml version
